@@ -3,6 +3,7 @@
 ;; Copyright (C) 2026 shogi-dojo
 
 ;; Author: shogi-dojo
+;; Assisted-by: Claude:claude-opus-5-5
 ;; Version: 0.1.0
 ;; Package-Requires: ((emacs "29.1"))
 ;; Keywords: convenience, faces, frames
