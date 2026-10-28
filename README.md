@@ -33,7 +33,7 @@ With Doom Emacs, in `packages.el`:
 ```elisp
 (package! lucide-toolbar
   :recipe (:host github :repo "shogi-dojo/lucide-toolbar"
-           :files ("*.el" "icons")))
+           :files (:defaults "icons")))
 ```
 
 and in `config.el`:
